@@ -20,3 +20,9 @@ Die ausführliche Beschreibung mit Vergleich der Empfangskonzepte, Tücken und M
 
 Die Videoinhalte anderer Stationen in den Bildschirmfotos sind zu Mosaiken verpixelt.
 Stand 22.11.2026, DG7NDV. Der Code ist (noch) nicht veröffentlicht. Alle Zahlen sind eigene Messungen.
+
+## Lizenz
+
+Text und eigene Bilder: [Creative Commons Namensnennung 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.de) – Namensnennung: DG7NDV. Der Volltext steht in [LICENSE](LICENSE). Das gilt nicht für Programme Dritter, die hier nur genannt werden (zum Beispiel `datvrx`).
+
+Ansicht im Browser: https://dg7ndv.github.io/qo100-datv-mehrsignal-konzept/konzept.html
